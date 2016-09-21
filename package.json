@@ -1,0 +1,29 @@
+{
+  "name": "clash-of-clans-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram Bot for managing Clash of clans groups",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leocabeza/clash-of-clans-telegram-bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "clash",
+    "of",
+    "clans"
+  ],
+  "author": "Leonardo Cabeza <info@leonardocabeza.com> (https://github.com/leocabeza)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leocabeza/clash-of-clans-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/leocabeza/clash-of-clans-telegram-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "0.23.3"
+  }
+}
