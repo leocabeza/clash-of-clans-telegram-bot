@@ -2,7 +2,7 @@ const messages = {
   welcomeMsg: 'Hola, #{name}. Bienvenido a `Vzlan Warriors`. \n' + 
     'Por favor lee primero las reglas escribiendole al bot @VzlanWarriorsBot \n ' + 
     'el comando /start y luego pídele las reglas con el comando /rules \n ' +
-    ' y escribenos cualquier duda',
+    ' y preguntanos cualquier duda.',
   rules: 'Reglas del clan Vzlan Warriors: \n' +
     '1.  Es obligatorio hacer sus dos (02) ataques en guerra.  \n' +
     '2. Mantener el escudo de guerra actualizado. \n' +
