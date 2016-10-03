@@ -1,5 +1,6 @@
 var config = {
-  telegramToken: 'MY_SUPER_SECRET_TOKEN'
+  telegramToken: 'MY_SUPER_SECRET_TOKEN',
+  leaders: []
 };
 
 module.exports = config;
