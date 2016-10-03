@@ -20,7 +20,7 @@ winston
 try {
   bot.on('new_chat_participant', newChatParticipant);
   bot.onText(/\/rules/, newMsg);
-  bot.onText(/\/list_do (10|15|20|25|30|40|50)$/, doList);
+  bot.onText(/\/list_new (10|15|20|25|30|40|50)$/, doList);
 } catch (e) {
   winston.log('debug', 'exception found: ', {data: e});
 }
@@ -40,7 +40,7 @@ function doList(msg, match) {
     // else send populated list
     bot.sendMessage(
       msg.chat.id,
-      'ya la lista está creada gonorrea malparido...',
+      'ya la lista está creada...',
       {reply_to_message_id: msg.message_id, parse_mode: 'Markdown'}
     );
   } else {

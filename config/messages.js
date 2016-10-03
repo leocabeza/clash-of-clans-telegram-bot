@@ -1,7 +1,7 @@
 const messages = {
   welcomeMsg: 'Hola, #{name}. Bienvenido a `Vzlan Warriors`. \n' + 
     'Por favor lee primero las reglas escribiendole al bot @VzlanWarriorsBot \n ' + 
-    'el comando /start y luego pídele las reglas con el comando /rules \n ' +
+    'el comando /start, luego pídele las reglas con el comando /rules \n ' +
     ' y preguntanos cualquier duda.',
   warListHeader: 'War list \u{2b50}: 0-0 | \u{1f52a}: 0-0 \n',
   onlyLeadersCanCreateLists: 'Sólo los lideres mas beios \u{1f60d} pueden crear listas \u{1f60b}',
@@ -11,8 +11,10 @@ const messages = {
     '3. Las aldeas a atacar en las guerras, se pedirán por el chat del COC y el grupo WS, ' +
       'en este sentido un jugador caracterizado hará una lista con las peticiones hechas, ' +
       'la cual será publicada en el Grupo WS.  \n' +
-    '4. No hay regla de espejo en este clan, solo se pide la aldea a la cual ' +
-      'tengas opción de sacar las tres (3) estrellas.  \n' +
+    '4. No hay regla de espejo en este clan, solo se pide la aldea a la cual tengas opción ' +
+      'de sacar las tres (3) estrellas, siempre y cuando sea de tu mismo nivel de TH. ' +
+      'En ocasiones se puede subir para hacer scout o bajar para limpiar, pero debe ' +
+      'ser consultado con un líder. \n' +
     '5. No botinees JAMÁS a menos que se de esa instrucción por parte ' +
       'de los jugadores caracterizados del clan.  \n' +
     '6. Por cada ataque que no hagas en guerra, se aplicará una banca; ' +
@@ -35,12 +37,12 @@ const messages = {
     '19. Los ascensos y descensos cada quien se los gana.  \n' +
     '20. Procurar subir el TH cuando se esté maxeado. Esto no es una carrera es un juego de estrategias.  \n' +
     '21. Los segundos ataques son para limpiar aldeas y se deben pedir por el chat del COC y grupo WS.  \n' +
-    '22. Para participar en guerras a partir de Th8, se deben poseer todos los héroes y ' +
+    '22. Para participar en guerras a partir de TH8, se deben poseer todos los héroes y ' +
       'calderos de hechizos según el nivel de ayuntamiento (Rey, Reina, Centinela, ' +
       'Caldero Rosa y Caldero Oscuro) siendo de caracter obligatorio que todos esten ' +
         'disponibles para el día de la guerra.  \n' +
-    '23. En guerras, todos los jugadores de th8 e inferiores, deberán hacer sus dos (02) ' +
-      'ataques durante las primeras 16 horas, así mismo los th9 deberán hacer por lo menos ' +
+    '23. En guerras, todos los jugadores de TH8 e inferiores, deberán hacer sus dos (02) ' +
+      'ataques durante las primeras 16 horas, así mismo los TH9 deberán hacer por lo menos ' +
       'un (01) ataque en ese mismo lapso de tiempo, de lo contrario se tomará como ataque ' +
       'no realizado y acarreará la respectiva sanción.  \n' +
     '24. Se llevará un registro de jugadores que incumplan las precitadas reglas, ' +
