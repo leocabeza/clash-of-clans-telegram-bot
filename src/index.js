@@ -13,7 +13,7 @@ const bot = new TelegramBot(token, {polling: true});
 try {
   bot.on('new_chat_participant', newChatParticipant);
   bot.onText(/\/rules/, newMsg);
-  bot.onText(/\/list_do (10|15|20|25|30|40|50)$/, doList);
+  bot.onText(/\/list_new (10|15|20|25|30|40|50)$/, doList);
 } catch (e) {
   console.debug('exception found: ', {data: e});
 }
