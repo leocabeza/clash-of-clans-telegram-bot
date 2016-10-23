@@ -3,7 +3,7 @@ const messages = {
     'Por favor lee primero las reglas escribiendole al bot @VzlanWarriorsBot \n ' + 
     'el comando /start, luego pídele las reglas con el comando /rules \n ' +
     ' y preguntanos cualquier duda.',
-  warListHeader: 'War list \u{2b50}: 0-0 | \u{1f52a}: 0-0 \n',
+  warListHeader: 'War list \u{2b50}: 0-0 | \u{2694}: 0-0 \n',
   onlyLeadersCanCreateLists: 'Sólo los lideres mas beios \u{1f60d} pueden crear listas \u{1f60b}',
   rules: 'Reglas del clan Vzlan Warriors: \n' +
     '1. Es obligatorio hacer sus dos (02) ataques en guerra.  \n' +
