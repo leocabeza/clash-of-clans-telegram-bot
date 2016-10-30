@@ -1,8 +1,9 @@
 const messages = {
   welcomeMsg: 'Hola, #{name}. Bienvenido a `Vzlan Warriors`. \n' + 
-    'Por favor lee primero las reglas escribiendole al bot @VzlanWarriorsBot \n ' + 
-    'el comando /start, luego pídele las reglas con el comando /rules \n ' +
-    ' y preguntanos cualquier duda.',
+    'Por favor lee primero las reglas ingresando al bot @VzlanWarriorsBot \n' + 
+    'Luego presionas el botón Iniciar o Start y seguidamente solicitas las reglas con \n' +
+    'el comando  /rules \n' +
+    'Preguntanos cualquier duda que tengas.',
   warListHeader: 'War list \u{2b50}: 0-0 | \u{2694}: 0-0 \n',
   onlyLeadersCanCreateLists: 'Sólo los lideres mas beios \u{1f60d} pueden crear listas \u{1f60b}',
   rules: 'Reglas del clan Vzlan Warriors: \n' +
