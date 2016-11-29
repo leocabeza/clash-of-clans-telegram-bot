@@ -51,7 +51,12 @@ const messages = {
       'específicamente las referentes a guerra (Blacklist); por cada infracción cometida ' +
       'se aplicará una (01) banca en guerra, las cuales serán acumulativas y consecutivas ' +
         'hasta seis (06), situación en la cual se estudiará la expulsión del jugador. ' +
-        'Éste registro se reiniciará cada dos (02) temporadas de liga.  \n'
+        'Éste registro se reiniciará cada dos (02) temporadas de liga.  \n' +
+    '25. Queda prohibido hacer ejército para atacar en guerra antes del día \n' +
+      ' de la batalla. Igualmente no está permitido el uso de ejércitos \n' +
+        'genéricos y ejercitos farm para atacar en guerra. Toda base debe ser \n' +
+          'estudiada y posterior a eso, se debe hacer el ejército con el cual se atacará \n' +
+           'por 3 estrellas'
 };
 
 module.exports = messages;
