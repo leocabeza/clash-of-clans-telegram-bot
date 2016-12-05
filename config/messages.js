@@ -33,7 +33,7 @@ const messages = {
     '14. Respetar la lista. No se deben robar aldeas.  \n' +
     '15. En guerras no se debe atacar sin el refuerzo del castillo del clan.  \n' +
     '16. Procurar pedir tropas de refuerzo del castillo por el grupo Telegram.  \n' +
-    '17. Guerras contínuas. Se buscaran guerras diariamente entre las 09:00PM y 10:00PM (GMT-4:30).  \n' +
+    '17. Guerras contínuas. Se buscaran guerras diariamente entre las 09:00PM y 10:00PM (GMT-4:00).  \n' +
     '18. No hacer Spam cuando se están pidiendo las aldeas para poder realizar la lista.  \n' +
     '19. Los ascensos y descensos cada quien se los gana.  \n' +
     '20. Procurar subir el TH cuando hayas mejorado todo al máximo. Esto no es una carrera ' +
