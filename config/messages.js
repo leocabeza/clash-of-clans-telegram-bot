@@ -43,10 +43,10 @@ const messages = {
       'calderos de hechizos según el nivel de ayuntamiento (Rey, Reina, Centinela, ' +
       'Caldero Rosa y Caldero Oscuro) siendo de caracter obligatorio que todos esten ' +
         'disponibles para el día de la guerra. \n' +
-    '23. En guerras, todos los jugadores de TH8 e inferiores, deberán hacer sus dos (02) ' +
-      ' ataques durante las primeras 16 horas, así mismo los TH9 deberán hacer sus dos (02) ' +
-      'ataques en un lapso de 21 horas, de lo contrario se tomará como ataque no realizado ' +
-      'y acarreará la respectiva sanción. \n' +  
+    '23. En guerras, todos los jugadores de TH8 e inferiores, deberán hacer sus dos (02) ataques ' +
+      'durante las primeras 16 horas, así mismo los TH9 deberán hacer el primer ataque '+
+      'antes de las 16 horas y el segundo ataque antes de las 21 horas, de lo contrario ' +
+      'se tomará como ataque no realizado y acarreará la respectiva sanción. \n' +  
     '24. Se llevará un registro de jugadores que incumplan las precitadas reglas, ' +
       'específicamente las referentes a guerra (Blacklist); por cada infracción cometida ' +
       'se aplicará una (01) banca en guerra, las cuales serán acumulativas y consecutivas ' +
