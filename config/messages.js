@@ -42,21 +42,21 @@ const messages = {
     '22. Para participar en guerras a partir de TH8, se deben poseer todos los héroes y ' +
       'calderos de hechizos según el nivel de ayuntamiento (Rey, Reina, Centinela, ' +
       'Caldero Rosa y Caldero Oscuro) siendo de caracter obligatorio que todos esten ' +
-        'disponibles para el día de la guerra.  \n' +
+        'disponibles para el día de la guerra. \n' +
     '23. En guerras, todos los jugadores de TH8 e inferiores, deberán hacer sus dos (02) ' +
-      'ataques durante las primeras 16 horas, así mismo los TH9 deberán hacer por lo menos ' +
-      'un (01) ataque en ese mismo lapso de tiempo, de lo contrario se tomará como ataque ' +
-      'no realizado y acarreará la respectiva sanción.  \n' +
+      ' ataques durante las primeras 16 horas, así mismo los TH9 deberán hacer sus dos (02) ' +
+      'ataques en un lapso de 21 horas, de lo contrario se tomará como ataque no realizado ' +
+      'y acarreará la respectiva sanción. \n' +  
     '24. Se llevará un registro de jugadores que incumplan las precitadas reglas, ' +
       'específicamente las referentes a guerra (Blacklist); por cada infracción cometida ' +
       'se aplicará una (01) banca en guerra, las cuales serán acumulativas y consecutivas ' +
         'hasta seis (06), situación en la cual se estudiará la expulsión del jugador. ' +
         'Éste registro se reiniciará cada dos (02) temporadas de liga.  \n' +
-    '25. Queda prohibido hacer ejército para atacar en guerra antes del día \n' +
-      ' de la batalla. Igualmente no está permitido el uso de ejércitos \n' +
-        'genéricos y ejercitos farm para atacar en guerra. Toda base debe ser \n' +
-          'estudiada y posterior a eso, se debe hacer el ejército con el cual se atacará \n' +
-           'por 3 estrellas'
+    '25. Queda prohibido hacer ejército para atacar en guerra antes del día' +
+      ' de la batalla. Igualmente no está permitido el uso de ejércitos' +
+        'genéricos y ejercitos farm para atacar en guerra. Toda base debe ser' +
+          'estudiada y posterior a eso, se debe hacer el ejército con el cual se atacará' +
+           'por 3 estrellas\n'
 };
 
 module.exports = messages;
