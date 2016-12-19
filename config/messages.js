@@ -23,40 +23,39 @@ const messages = {
     '7. No tenemos ningún tipo de problema con las donaciones. El que quiera donar, dona, ' +
       'el que no quiera simplemente no lo hace.  \n' +
     '8. Los castillos de guerra (Ofensivo y Defensivo) se llenan solo con tropas al máximo.  \n' +
-    '9. Faltando 8 horas para finalizar la guerra la aldea pedida para el ' +
-      'primer ataque ya cualquiera la puede atacar.  \n' +
-    '10. Faltando 3 horas para finalizar la guerra, la aldea pedida para el ' +
-      'segundo ataque ya cualquiera la puede atacar.  \n' +
-    '11. No expulsamos jugadores sin justificación.  \n' +
-    '12. Respeto entre jugadores y ante todo respeto a las damas del clan (Cero casanovas)  \n' +
-    '13. Solo se dona lo que se pide, si no lo tienes, no dones.  \n' +
-    '14. Respetar la lista. No se deben robar aldeas.  \n' +
-    '15. En guerras no se debe atacar sin el refuerzo del castillo del clan.  \n' +
-    '16. Procurar pedir tropas de refuerzo del castillo por el grupo Telegram.  \n' +
-    '17. Guerras contínuas. Se buscaran guerras diariamente entre las 09:00PM y 10:00PM (GMT-4:00).  \n' +
-    '18. No hacer Spam cuando se están pidiendo las aldeas para poder realizar la lista.  \n' +
-    '19. Los ascensos y descensos cada quien se los gana.  \n' +
-    '20. Procurar subir el TH cuando hayas mejorado todo al máximo. Esto no es una carrera ' +
+    '9. No expulsamos jugadores sin justificación.  \n' +
+    '10. Respeto entre jugadores y ante todo respeto a las damas del clan (Cero casanovas)  \n' +
+    '11. Solo se dona lo que se pide, si no lo tienes, no dones.  \n' +
+    '12. Respetar la lista. No se deben robar aldeas.  \n' +
+    '13. En guerras no se debe atacar sin el refuerzo del castillo del clan.  \n' +
+    '14. Procurar pedir tropas de refuerzo del castillo por el grupo Telegram.  \n' +
+    '15. Guerras contínuas. Se buscaran guerras diariamente entre las 09:00PM y 10:00PM (GMT-4:00).  \n' +
+    '16. No hacer Spam cuando se están pidiendo las aldeas para poder realizar la lista.  \n' +
+    '17. Los ascensos y descensos cada quien se los gana.  \n' +
+    '18. Procurar subir el TH cuando hayas mejorado todo al máximo. Esto no es una carrera ' +
       'es un juego de estrategias.  \n' +
-    '21. Los segundos ataques son para limpiar aldeas y se deben pedir por el chat del COC y/o grupo Telegram.  \n' +
-    '22. Para participar en guerras a partir de TH8, se deben poseer todos los héroes y ' +
+    '19. Los segundos ataques son para limpiar aldeas y se deben pedir por el chat del COC y/o grupo Telegram.  \n' +
+    '20. Para participar en guerras a partir de TH8, se deben poseer todos los héroes y ' +
       'calderos de hechizos según el nivel de ayuntamiento (Rey, Reina, Centinela, ' +
       'Caldero Rosa y Caldero Oscuro) siendo de caracter obligatorio que todos esten ' +
         'disponibles para el día de la guerra. \n' +
-    '23. En guerras, todos los jugadores de TH8 e inferiores, deberán hacer sus dos (02) ataques ' +
+    '21. En guerras, todos los jugadores de TH8 e inferiores, deberán hacer sus dos (02) ataques ' +
       'durante las primeras 16 horas, así mismo los TH9 deberán hacer el primer ataque '+
       'antes de las 16 horas y el segundo ataque antes de las 21 horas, de lo contrario ' +
       'se tomará como ataque no realizado y acarreará la respectiva sanción. \n' +  
-    '24. Se llevará un registro de jugadores que incumplan las precitadas reglas, ' +
+    '22. Se llevará un registro de jugadores que incumplan las precitadas reglas, ' +
       'específicamente las referentes a guerra (Blacklist); por cada infracción cometida ' +
       'se aplicará una (01) banca en guerra, las cuales serán acumulativas y consecutivas ' +
         'hasta seis (06), situación en la cual se estudiará la expulsión del jugador. ' +
         'Éste registro se reiniciará cada dos (02) temporadas de liga.  \n' +
-    '25. Queda prohibido hacer ejército para atacar en guerra antes del día' +
+    '23. Queda prohibido hacer ejército para atacar en guerra antes del día' +
       ' de la batalla. Igualmente no está permitido el uso de ejércitos' +
         'genéricos y ejercitos farm para atacar en guerra. Toda base debe ser' +
           'estudiada y posterior a eso, se debe hacer el ejército con el cual se atacará' +
-           'por 3 estrellas\n'
+           'por 3 estrellas\n' +
+    '24. Todo jugador que pida aldea y sea publicada en la lista, tendrá máximo una (1) hora para ' +
+      'atacarla, de lo contrario dicha petición será borrada de la lista y cualquiera ' +
+      'la puede volver a pedir para atacarla.\n'
 };
 
 module.exports = messages;
