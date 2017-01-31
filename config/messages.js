@@ -49,9 +49,9 @@ const messages = {
         'hasta seis (06), situación en la cual se estudiará la expulsión del jugador. ' +
         'Éste registro se reiniciará cada dos (02) temporadas de liga.  \n' +
     '23. Queda prohibido hacer ejército para atacar en guerra antes del día' +
-      ' de la batalla. Igualmente no está permitido el uso de ejércitos' +
-        'genéricos y ejercitos farm para atacar en guerra. Toda base debe ser' +
-          'estudiada y posterior a eso, se debe hacer el ejército con el cual se atacará' +
+      ' de la batalla. Igualmente no está permitido el uso de ejércitos ' +
+        'genéricos y ejercitos farm para atacar en guerra. Toda base debe ser ' +
+          'estudiada y posterior a eso, se debe hacer el ejército con el cual se atacará ' +
            'por 3 estrellas\n' +
     '24. Todo jugador que pida aldea y sea publicada en la lista, tendrá máximo una (1) hora para ' +
       'atacarla, de lo contrario dicha petición será borrada de la lista y cualquiera ' +

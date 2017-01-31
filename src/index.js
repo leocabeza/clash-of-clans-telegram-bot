@@ -22,19 +22,24 @@ function doList(msg, match) {
   let warSize = match[1];
   let username = msg.from.username || '';
   
-  // https://github.com/yagop/node-telegram-bot-api#telegrambotgetchatadministratorschatid--promise
-  if (config.leaders.indexOf(msg.from.username) === -1) {
-    bot.sendMessage(
-      msg.chat.id,
-      messages.onlyLeadersCanCreateLists,
-      {reply_to_message_id: msg.message_id, parse_mode: 'Markdown'}
-    );
-  } else {
-    bot.sendMessage(
-      msg.chat.id,
-      setList(warSize)
-    );
-  }
+  bot.getChatAdministrators(msg.chat.id)
+    .then((admins) => {
+      let found = admins.find(function(admin) {
+        admin.username === msg.from.username
+      })
+      if (found) {
+        bot.sendMessage(
+          msg.chat.id,
+          messages.onlyLeadersCanCreateLists,
+          {reply_to_message_id: msg.message_id, parse_mode: 'Markdown'}
+        );
+      } else {
+        bot.sendMessage(
+          msg.chat.id,
+          setList(warSize)
+        );
+      }
+    });
 }
 
 function setList(warSize) {
