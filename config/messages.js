@@ -9,7 +9,7 @@ const messages = {
   rules: 'Reglas del clan Vzlan Warriors: \n' +
     '1. Es obligatorio hacer sus dos (02) ataques en guerra.  \n' +
     '2. Mantener el escudo de guerra actualizado. \n' +
-    '3. Las aldeas a atacar en las guerras, se pedirán por el chat del COC y el grupo Telegram, ' +
+    '3. Las aldeas a atacar en las guerras, se pedirán por el grupo Telegram, ' +
       'en este sentido un jugador caracterizado hará una lista con las peticiones hechas, ' +
       'la cual será publicada en el Grupo Telegram.  \n' +
     '4. No hay regla de espejo en este clan, solo se pide la aldea a la cual tengas opción ' +
