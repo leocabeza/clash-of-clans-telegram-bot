@@ -48,11 +48,13 @@ const messages = {
       'se aplicará una (01) banca en guerra, las cuales serán acumulativas y consecutivas ' +
         'hasta seis (06), situación en la cual se estudiará la expulsión del jugador. ' +
         'Éste registro se reiniciará cada dos (02) temporadas de liga.  \n' +
-    '23. Queda prohibido hacer ejército para atacar en guerra antes del día' +
-      ' de la batalla. Igualmente no está permitido el uso de ejércitos ' +
-        'genéricos y ejercitos farm para atacar en guerra. Toda base debe ser ' +
-          'estudiada y posterior a eso, se debe hacer el ejército con el cual se atacará ' +
-           'por 3 estrellas\n' +
+    '23. Queda prohibido hacer ejército para atacar en guerra antes del día de la batalla. ' +
+      ' Igualmente no está permitido el uso de ejércitos genéricos y ejercitos farm ' +
+      'para atacar en guerra. De igual forma esta prohibido el uso del mismo ejercito ' +
+      'para atacar bases diferentes, incluso haciendole pequeñas modificaciones con la intención ' +
+      'de hacerlo ver diferente. Para permanecer en este clan, todo jugador deberá ver la base ' +
+      'que desea atacar, estudiarla y posterior a eso se debe crear el ejército en base al diseño ' +
+      'de la misma y con el cual se atacará por 3 estrellas\n' +
     '24. Todo jugador que pida aldea y sea publicada en la lista, tendrá máximo una (1) hora para ' +
       'atacarla, de lo contrario dicha petición será borrada de la lista y cualquiera ' +
       'la puede volver a pedir para atacarla.\n'
